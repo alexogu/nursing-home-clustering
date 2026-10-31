@@ -1,0 +1,13 @@
+cluster,name,city,state,ownership,beds,residents,occupancy,overall,nurse_hours,turnover
+0,DIVERSICARE OF CHANUTE,CHANUTE,KS,For profit - Corporation,77.0,54.9,0.71,2.0,3.52,60.4
+0,Enumclaw Health and Rehabilitation,ENUMCLAW,WA,For profit - Limited Liability company,92.0,71.1,0.77,2.0,3.75,61.5
+0,Accordius Health at Rose Manor LLC,Durham,NC,For profit - Limited Liability company,111.0,77.3,0.7,2.0,3.94,52.2
+1,ESSEX MEADOWS HEALTH CENTER,ESSEX,CT,For profit - Limited Liability company,45.0,38.4,0.85,5.0,5.0,34.5
+1,Shady Lane Nursing Care Center,Manitowoc,WI,Non profit - Corporation,50.0,43.5,0.87,5.0,5.11,37.7
+1,CHIPPEWA MANOR NURSING AND REHABILITATION,CHIPPEWA FALLS,WI,For profit - Corporation,50.0,42.4,0.85,5.0,4.7,45.2
+2,HERITAGE HOUSE REHABILITATION & HEALTH CARE CENTER,CONNERSVILLE,IN,Government - County,98.0,84.0,0.86,4.0,3.44,38.1
+2,SANCTUARY AT  OHIO VALLEY,IRONTON,OH,Non profit - Corporation,93.0,76.7,0.82,4.0,3.43,40.6
+2,ALLIANCE HEALTH AT BALDWINVILLE,BALDWINVILLE,MA,Non profit - Corporation,94.0,85.4,0.91,4.0,3.75,42.7
+3,ROSE GARDEN NURSING AND REHABILITATION CENTER,TOMS RIVER,NJ,For profit - Individual,128.0,114.4,0.89,2.0,3.7,41.7
+3,The Villages on MacArthur,Irving,TX,Non profit - Corporation,124.0,103.5,0.83,2.0,3.45,43.0
+3,HIGHLAND MANOR REHABILITATION AND NURSING CENTER,EXETER,PA,Non profit - Corporation,120.0,109.6,0.91,2.0,3.59,43.4
